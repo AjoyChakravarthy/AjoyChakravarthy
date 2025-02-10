@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AjoyChakravarthy
-- 👀 I’m interested in Full-stack web development...
+- 👀 Junior Frontend Development...
 
 
 <!---
