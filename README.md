@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AjoyChakravarthy
-- 👀 Junior Frontend Development...
+- 👀  Frontend Development...
 
 
 <!---
