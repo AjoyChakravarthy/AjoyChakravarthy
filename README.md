@@ -10,8 +10,8 @@
 ---
 
 ### 🛠 Tech Stack
-React | TypeScript | Next.js | Gatsby | Tailwind CSS | Styled Components | Sass/SCSS  
-HTML | CSS | JavaScript | Git | GitHub | i18n | Formik | React Query | Firebase
+React | TypeScript | Next.js | Tailwind CSS | Styled Components | Sass/SCSS  
+HTML | CSS | JavaScript | Git | GitHub | i18n | React Query |
 
 ---
 
