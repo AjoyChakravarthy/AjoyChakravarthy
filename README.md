@@ -11,7 +11,7 @@
 
 ### 🛠 Tech Stack
 React | TypeScript | Next.js | Tailwind CSS | Styled Components | Sass/SCSS  
-HTML | CSS | JavaScript | Git | GitHub | i18n | React Query |
+HTML | CSS | JavaScript | Git | GitHub | React Query |
 
 ---
 
